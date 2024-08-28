@@ -1,7 +1,7 @@
 #FirstProgram.py
 #Name: Lore Reick
 #Date: 8/28/24
-#Assignment:
+#Assignment: Create a madlib for fun!
 
 def main():
   print("Madlib")
